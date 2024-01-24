@@ -1,0 +1,7 @@
+{
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        // "index.ts": "*.tsx, *.css, *.ts, *.json, *.yml, !index.ts"
+        "index.ts": "*.tsx, *.css, *.ts"
+    },
+}
